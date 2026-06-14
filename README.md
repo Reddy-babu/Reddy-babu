@@ -47,7 +47,6 @@
 | 📊 **Sales Performance Dashboard** | Interactive dashboard analyzing regional sales trends, top products, and YoY growth | Power BI, Excel | [View Project](#) |
 | 🧹 **Customer Data Cleaning & EDA** | Cleaned and explored a messy customer dataset, uncovering key segments | Python, Pandas, NumPy | [View Project](#) |
 | 🗄️ **SQL Sales Database Analysis** | Wrote optimized queries to answer business questions on revenue and inventory | SQL | [View Project](#) |
-| 📈 **COVID-19 Trends Dashboard** | Visualized global case/death trends with filters by country and date | Tableau | [View Project](#) |
 
 > 💡 *Replace the project names, descriptions, and links above with your own repos as you build them.*
 
@@ -78,7 +77,7 @@
   <a href="www.linkedin.com/in/reddy-babu-veeraboyana-831828346" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="www.linkedin.com/in/reddy-babu-veeraboyana-831828346">
+  <a href="veeraboyanareddybabu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
