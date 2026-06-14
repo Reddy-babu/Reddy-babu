@@ -19,7 +19,7 @@
 - 📈 Currently building a portfolio of end-to-end analytics projects — from raw data to dashboards
 - 🌱 Learning new techniques in data storytelling and statistical analysis
 - 💬 Ask me about data cleaning, dashboards, or SQL queries
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **veeraboyanareddybabu@gmail.com**
 
 ---
 
