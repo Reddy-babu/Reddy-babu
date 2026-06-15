@@ -44,7 +44,7 @@
 
 | Project | Description | Tools Used | Link |
 |---|---|---|---|
-| 📊 **E-commerce Blinkit Dashboard** | Interactive dashboard analyzing regional sales trends, top products, and YoY growth | Power BI, Excel | [View Project](#) |
+| 📊 **E-commerce Blinkit Dashboard** | Interactive dashboard analyzing regional sales trends, top products, and YoY growth | Power BI, Excel | [View Project](https://github.com/Reddy-babu/Blinkit-dashboard) |
 | 🧹 **Customer Data Cleaning & EDA** | Cleaned and explored a messy customer dataset, uncovering key segments | Python, Pandas, NumPy | [View Project](#) |
 | 🗄️ **SQL Sales Database Analysis** | Wrote optimized queries to answer business questions on revenue and inventory | SQL | [View Project](#) |
 
